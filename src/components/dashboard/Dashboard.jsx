@@ -130,7 +130,7 @@
 
 
 import React, { useState, useEffect } from "react";
-import "./Dashboard.css";
+import "./dashboard.css";
 import Navbar from "../Navbar";
 
 const Dashboard = () => {
